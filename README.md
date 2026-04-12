@@ -8,4 +8,4 @@ Here Numpy>Slicing and other part also clearn Master of Numpy
 <img width="1690" height="863" alt="image" src="https://github.com/user-attachments/assets/405a5ff6-58fc-48c8-89a2-17f07a69b584" />
 
 Right Now about PANDAS (Panel Data), For Data Analysis right below
-<img width="1697" height="929" alt="image" src="https://github.com/user-attachments/assets/da0cbc25-c22e-43cc-a81e-8e882bd9ce8d" />
+
