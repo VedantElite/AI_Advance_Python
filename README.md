@@ -1,7 +1,7 @@
 # AI_Advance_Python
 Basic to Advance Python Including AI but Very Basic
 
-At the Date 9 April I am Learning About Libraries the need for Data Analysis, Like Numpy, Pandas, Matplotlib, For Data Analysis and Data Cleaning using Pythong Libraries, As per my learning (what if i make a python scripts, for Data Cleaning and Data Analysis)
+I am Learning About Libraries the need for Data Analysis, Like Numpy, Pandas, Matplotlib, For Data Analysis and Data Cleaning using Pythong Libraries, As per my learning (what if i make a python scripts, for Data Cleaning and Data Analysis)
 
 1. [NUMPY] Here Numpy>Slicing and other part also clearn Master of Numpy 
 <img width="1357" height="737" alt="image" src="https://github.com/user-attachments/assets/5ed0bd4d-e937-4fce-b6fd-e3fd533163fe" />
