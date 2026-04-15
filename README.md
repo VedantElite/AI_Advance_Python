@@ -10,7 +10,7 @@ At the Date 9 April I am Learning About Libraries the need for Data Analysis, Li
 IMG : File Handling and Pandas for daya Cleaning, Modify
 <img width="1669" height="907" alt="Screenshot 2026-04-12 111811" src="https://github.com/user-attachments/assets/1cedf11d-87ba-411a-b9de-4f495d80b6f4" />
 
-3. [MATPLOTLIB] Matplotlib.Pyplot for Grap design, Basic Start From This
+3. [MATPLOTLIB] Matplotlib.Pyplot for Grap design, Basic Start From This : 
 <img width="1692" height="938" alt="image" src="https://github.com/user-attachments/assets/68527a81-2506-41cb-a2e5-1700b9e91960" />
 
 3.1 Scatter : 
@@ -19,6 +19,6 @@ IMG : File Handling and Pandas for daya Cleaning, Modify
 3.2 Histogram : 
 <img width="1695" height="718" alt="image" src="https://github.com/user-attachments/assets/336550c6-5fd6-4daf-a759-84137c54da5f" />
 
-3.3 Linegraph:
+3.3 Linegraph : 
 <img width="1689" height="848" alt="Screenshot 2026-04-13 113939" src="https://github.com/user-attachments/assets/f75b57c3-8a45-44b2-b410-9469cc755ea1" />
 
