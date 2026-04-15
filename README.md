@@ -22,3 +22,5 @@ IMG : File Handling and Pandas for daya Cleaning, Modify
 3.3 Linegraph : 
 <img width="1689" height="848" alt="Screenshot 2026-04-13 113939" src="https://github.com/user-attachments/assets/f75b57c3-8a45-44b2-b410-9469cc755ea1" />
 
+3.4 SubPlots : 
+<img width="1683" height="853" alt="image" src="https://github.com/user-attachments/assets/c55fd871-4f30-458a-b5a9-a65c45414a30" />
