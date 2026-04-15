@@ -1,7 +1,5 @@
 # AI_Advance_Python
-Basic to Advance Python Including AI but Very Basic
-
-From Latest Update of Learning Below. Top Down
+PYTHON For Data Analysis and AI, From Latest Update of Learning Below. Top Down
 
 
 
